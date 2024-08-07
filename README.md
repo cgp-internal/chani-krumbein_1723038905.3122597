@@ -11,3 +11,5 @@ This is a basic web application that displays a "Hello World" message.
 * `index.html`: The main HTML file that displays a "Hello World" message.
 * `README.md`: This file, containing basic documentation and a "how to run" guide.
 * `.gitignore`: A file specifying files and directories to be ignored by Git.
+
+Note: This application has been updated!
